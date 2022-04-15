@@ -1,0 +1,21 @@
+{
+  "tickers":[
+  { "company":"Apple", "ticker":"AAPL" },
+  { "company":"Microsoft", "ticker":"MSFT" },
+  { "company":"Meta", "ticker":"META" },
+  { "company":"Amazon", "ticker":"AMZN" },
+  { "company":"Tesla", "ticker":"TSLA" },
+  { "company":"Peloton", "ticker":"PTON" },
+  { "company":"Microvision", "ticker":"MVIS" },
+  { "company":"General Electric", "ticker":"GE" },  
+  { "company":"DiDi Global", "ticker":"DIDI" },
+  { "company":"Karyopharm Therapeutics", "ticker":"KPTI" },
+  { "company":"Pinduoduo", "ticker":"PDD" },
+  { "company":"Neenah", "ticker":"NP" },
+  { "company":"Luokung Technology", "ticker":"LKCO" },
+  { "company":"BYD Company", "ticker":"BYDDY" },
+  { "company":"ZTE", "ticker":"ZTCOY" },
+  { "company":"BIT Mining", "ticker":"BTCM" },
+  { "company":"Coupang", "ticker":"CPNG" },
+  { "company":"Li Auto Inc", "ticker":"LI" }
+]}
